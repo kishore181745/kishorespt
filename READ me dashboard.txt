@@ -1,0 +1,25 @@
+# Data Science Dashboard
+
+This project is a simple data science dashboard built using **Dash** and **Plotly**. The dashboard visualizes some sample data, including a bar chart and a line chart. It allows users to interact with the charts through a dropdown menu to select categories and a range slider to adjust the years.
+
+## Features
+
+- **Bar Chart**: Displays the relationship between categories and their values.
+- **Line Chart**: Shows the growth over years.
+- **Dropdown**: Allows the user to select a category and view its corresponding data.
+- **Range Slider**: Enables the user to adjust the range of years to view the growth chart for a specific year range.
+
+## Tech Stack
+
+- **Python**: The primary language used for building the application.
+- **Dash**: A web framework for building interactive web applications.
+- **Plotly**: A graphing library used to create visualizations.
+- **Pandas**: A library used to handle and manipulate the data.
+
+## Installation
+
+Follow these steps to set up the project on your local machine:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/my-dashboard-project.git
